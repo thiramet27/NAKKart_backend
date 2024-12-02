@@ -23,7 +23,7 @@ app.use(express.json());
 app.use(cors());
 
 const allowedOrigins = [
-  "https://nak-kart-admin-page.vercel.app/",
+  "https://nak-kart-admin-page.vercel.app",
   "https://artnakkk-frontend-admin.vercel.app",
   "http://localhost:5174",
   "http://localhost:5175", // For local development
