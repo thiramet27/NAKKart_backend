@@ -25,6 +25,7 @@ app.use(cors());
 const allowedOrigins = [
   "https://nak-kart-admin-page.vercel.app",
   "https://artnakkk-frontend-admin.vercel.app",
+  "https://nak-kart-frontend-user-kw7gu9v6p-thiramet-phuthongs-projects.vercel.app",
   "http://localhost:5174",
   "http://localhost:5175", // For local development
   "http://localhost:5176", // For local development
